@@ -1,6 +1,6 @@
 # Vite vanillaJs tabs 
 
-Un système d'onglets en javascript avec module ES6 et SASS avec Vite.js
+Un système d'onglets en javascript vanille avec Vite.js, module ES6, et SASS.
 
 
 ## Crédits
